@@ -6,7 +6,7 @@ The objective is to replicate and propose an improvement to an original paper us
 
 Student: [Eduardo Antônio de Lucena Lisboa][git_lisboa]
 
-The report can be found [here][report_link] or in the "Reports" folder in this repository, [here][report_github] and the presentation was made in video form and can be found [here][presentation_youtube].
+The report can be found [here][report_link] or in the "Reports" folder [here][report_github] and the presentation was made in video form and can be found [here][presentation_youtube].
 
 An online working version of this project can be found [here][colab_link].
 
