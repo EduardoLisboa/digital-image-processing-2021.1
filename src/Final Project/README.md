@@ -6,7 +6,7 @@ The objective is to replicate and propose an improvement to an original paper us
 
 Student: [Eduardo Antônio de Lucena Lisboa][git_lisboa]
 
-The report can be found [here][report_link] or in the "Reports" folder in this repository.
+The report can be found [here][report_link] or in the "Reports" folder in this repository, [here][report_github].
 
 An online working version of this project can be found [here][colab_link].
 
@@ -52,6 +52,7 @@ Obs.: These _placeholder.txt_ files are as the names suggests, just placeholders
 <!-- ----------------- -->
 [git_lisboa]: https://github.com/EduardoLisboa
 [report_link]: https://drive.google.com/file/d/1N7TJI_0kJ7KFOfNB0iQt4bc7VVohjZhl/view?usp=sharing
+[report_github]: https://github.com/EduardoLisboa/digital-image-processing-2021.1/tree/main/reports/dissertation
 [colab_link]: https://colab.research.google.com/drive/1v0PI4LmONUo15HBGZXIugtvfFfPVTRrW?usp=sharing
 
 [pwc]: https://paperswithcode.com
