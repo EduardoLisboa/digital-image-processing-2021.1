@@ -8,6 +8,7 @@ Student: [Eduardo Antônio de Lucena Lisboa][git_lisboa]
 
 The report can be found [here][report_link] or in the "Reports" folder in this repository.
 
+An online working version of this project can be found [here][colab_link].
 ---
 ## Original paper
 Original paper was obtained on [Papers With Code][pwc] and can be found [here][original_paper].
@@ -50,6 +51,7 @@ Obs.: These _placeholder.txt_ files are as the names suggests, just placeholders
 <!-- ----------------- -->
 [git_lisboa]: https://github.com/EduardoLisboa
 [report_link]: https://drive.google.com/file/d/1N7TJI_0kJ7KFOfNB0iQt4bc7VVohjZhl/view?usp=sharing
+[colab_link]: https://colab.research.google.com/drive/1v0PI4LmONUo15HBGZXIugtvfFfPVTRrW?usp=sharing
 
 [pwc]: https://paperswithcode.com
 [original_paper]: https://paperswithcode.com/paper/a-smartphone-application-to-detection-and
