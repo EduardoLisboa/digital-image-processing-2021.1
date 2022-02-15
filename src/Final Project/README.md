@@ -9,6 +9,7 @@ Student: [Eduardo Antônio de Lucena Lisboa][git_lisboa]
 The report can be found [here][report_link] or in the "Reports" folder in this repository.
 
 An online working version of this project can be found [here][colab_link].
+
 ---
 ## Original paper
 Original paper was obtained on [Papers With Code][pwc] and can be found [here][original_paper].
